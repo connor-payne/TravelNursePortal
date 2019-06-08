@@ -1,0 +1,19 @@
+.completionTracker {
+  background-color: white;
+  min-height: 300px
+}
+
+.statusCircle {
+  height: 20px;
+  width:20px;
+  border-radius: 100%;
+  /* background-color: teal; */
+}
+
+.complete {
+  background: #0abab5 
+}
+
+.incomplete {
+  background: darkgrey
+}
